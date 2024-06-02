@@ -1,7 +1,11 @@
 <div align='center'>
 
 <h1>ByteBot Discord Landing Page.</h1>
-<h4> <a href=https://github.com/ImLimiteds/ByteWebsite>View Demo</a> <span> · </span> <a href="https://github.com/ImLimiteds/ByteWebsite/blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/ImLimiteds/ByteWebsite/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/ImLimiteds/ByteWebsite/issues"> Request Feature </a> </h4>
+<h4>
+  <a href="https://github.com/ImLimiteds/ByteWebsite/issues"> Report Bug </a>
+  <span> · </span> 
+  <a href="https://github.com/ImLimiteds/ByteWebsite/issues"> Request Feature </a> 
+</h4>
 
 
 </div>
